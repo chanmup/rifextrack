@@ -4,8 +4,8 @@
     -moz-box-shadow:2px 2px 8px #555;
     -webkit-box-shadow:2px 2px 8px #555;
     box-shadow: 4px 4px 8px #555;
-    color: white;
-    background: darkblue;
+    color: c00;
+    background: #fff;
     cursor:pointer;
     border-radius: 5px;
     font-size: 17px; 
@@ -27,8 +27,8 @@
     -moz-box-shadow:2px 2px 8px #555;
     -webkit-box-shadow:2px 2px 8px #555;
     box-shadow: 4px 4px 8px #555;
-    color: white;
-    background: darkblue;
+    color: c00;
+    background: #fff;
     cursor:pointer;
     border-radius: 5px;
     font-size: 17px; 
@@ -40,11 +40,5 @@
     -moz-box-shadow:2px 2px 8px #333;
     -webkit-box-shadow:2px 2px 8px #333;
     box-shadow: 4px 4px 10px #333;
-    opacity:0.9;
-    }
-    .search button:hover{
-    -moz-box-shadow:1px 1x 4px #333;
-    -webkit-box-shadow:1px 1px 4px #333;
-    box-shadow: 1px 1px 4px #333;
     opacity:0.9;
     }
