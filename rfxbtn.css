@@ -14,14 +14,13 @@
     padding: 12px;
     margin : 0
     }
-    .rfxbtn:hover{
+.rfxbtn:hover{
     -moz-box-shadow:2px 2px 8px #333;
     -webkit-box-shadow:2px 2px 8px #333;
     box-shadow: 4px 4px 10px #333;
     opacity:0.9;
     }
-      
-    .rfxbtn1{
+.rfxbtn1{
     border-radius: 3px;
     padding: 3px 10px;
     -moz-box-shadow:2px 2px 8px #555;
@@ -36,7 +35,7 @@
     padding: 12px;
     float:left
     }
-    .rfxbtn1:hover{
+.rfxbtn1:hover{
     -moz-box-shadow:2px 2px 8px #333;
     -webkit-box-shadow:2px 2px 8px #333;
     box-shadow: 4px 4px 10px #333;
